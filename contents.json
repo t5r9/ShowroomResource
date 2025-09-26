@@ -8,6 +8,30 @@
             "quality": 1,
             "url": "https://play.unity.com/en/games/9a08ccce-43dc-4c51-b25c-e4e52abaf8e7/fallblock",
             "imageUrl": "https://github.com/t5r9/ShowroomResource/blob/main/ContentImages/contentImage_fallBlockGame.png?raw=true"
+        },
+        {
+            "name": "RPGもどき",
+            "contentType": "gameUrl",
+            "addDate": "2025-9-26",
+            "quality": 1,
+            "url": "https://play.unity.com/en/games/f11f269c-6bb3-4d02-9544-5b06065a462d/game2",
+            "imageUrl": "https://github.com/t5r9/ShowroomResource/blob/main/ContentImages/GameImage.png?raw=true"
+        },
+        {
+            "name": "2D横スクロール",
+            "contentType": "gameUrl",
+            "addDate": "2025-9-26",
+            "quality": 2,
+            "url": "https://play.unity.com/en/games/aedb2524-3b29-40b0-ac7d-d743bebfe8b0/2daction",
+            "imageUrl": "https://github.com/t5r9/ShowroomResource/blob/main/ContentImages/GameImage2.png?raw=true"
+        },
+        {
+            "name": "1バトル",
+            "contentType": "gameUrl",
+            "addDate": "2025-9-26",
+            "quality": 2,
+            "url": "https://play.unity.com/en/games/9a08ccce-43dc-4c51-b25c-e4e52abaf8e7/fallblock",
+            "imageUrl": "https://fa7int.itch.io/game5"
         }
     ]
 }
